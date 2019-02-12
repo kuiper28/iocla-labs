@@ -1,0 +1,12 @@
+break for
+  commands
+    stepi
+    print $al
+    print $ecx
+  end
+break for
+  commands
+    print $al
+    print $ecx
+  end
+
